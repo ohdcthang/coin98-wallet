@@ -1,0 +1,6 @@
+use_frameworks!
+target 'coin98-wallet-core_Tests' do
+  pod 'coin98-wallet-core', :path => '../'
+  
+  
+end
